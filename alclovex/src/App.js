@@ -28,7 +28,7 @@ const TaskBoard = () => {
               <div className="projects">
                 <div className="objt1">Freelance Project</div>
                 <div className="objt2">SBI Outsource</div>
-                <div className="objt3">HRCL Project 1</div>
+                <div className="objt3">HPCL Project 1</div>
               </div>
               <div className="Btn">
                 <button> + Add new Project</button>
